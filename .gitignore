@@ -1,0 +1,28 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+#db.sqlite3
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Google Cloud Platform Credentials
+*.json
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Migrations
+*/migrations/*
+
+# Secrets
+.env
